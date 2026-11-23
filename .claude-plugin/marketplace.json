@@ -1,0 +1,21 @@
+{
+  "name": "msf",
+  "owner": {
+    "name": "Vinit Mittal"
+  },
+  "description": "msf: a development factory as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "msf",
+      "source": "./",
+      "description": "Gated, skill-driven workflow from discovery to merged PR.",
+      "category": "engineering",
+      "keywords": [
+        "workflow",
+        "tdd",
+        "code-review",
+        "security"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "msf",
+  "version": "0.1.0",
+  "description": "A development factory: gated, skill-driven workflow from discovery to merged PR.",
+  "author": {
+    "name": "Vinit Mittal"
+  },
+  "repository": "https://github.com/mittal-vinit/msf",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "workflow",
+    "tdd",
+    "code-review",
+    "security",
+    "engineering"
+  ],
+  "skills": "./skills"
+}
