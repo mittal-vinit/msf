@@ -22,7 +22,7 @@ msf is assembled from MIT-licensed skills by Matt Pocock, Addy Osmani, Lauren Ta
 As a Claude Code plugin:
 
 ```
-/plugin marketplace add <owner>/msf
+/plugin marketplace add mittal-vinit/msf
 /plugin install msf@msf
 ```
 
@@ -32,7 +32,7 @@ Typical run: `grill-with-docs` -> `to-spec` -> `to-tickets` -> `implement-spec` 
 
 ## Status
 
-v0.1. Skills keep their **upstream names** so cross-references keep working (no `msf-` prefix yet). Nothing here has been evaluated end to end; the first job is to build the eval task set in `evals/`.
+v1. Skills keep their **upstream names** so cross-references keep working (no `msf-` prefix yet). Nothing here has been evaluated end to end; the first job is to build the eval task set in `evals/`.
 
 ## Contributing / changing a skill
 
