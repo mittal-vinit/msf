@@ -53,7 +53,7 @@ See `THIRD_PARTY_NOTICES.md` for the license texts. Skills keep their upstream n
 | `technical-writing` | cursor/plugins (pstack/) | MIT (c) 2026 Lauren Tan | none | - |
 | `unslop` | cursor/plugins (pstack/) | MIT (c) 2026 Lauren Tan | none | - |
 | `why` | cursor/plugins (pstack/) | MIT (c) 2026 Lauren Tan | none | - |
-| `code-review` | mattpocock/skills | MIT (c) 2026 Matt Pocock | none | - |
+| `code-review` | mattpocock/skills | MIT (c) 2026 Matt Pocock | merged with our own review skill; reach section adapted from `blast-radius` | - |
 | `codebase-design` | mattpocock/skills | MIT (c) 2026 Matt Pocock | none | DEEPENING.md, DESIGN-IT-TWICE.md |
 | `diagnosing-bugs` | mattpocock/skills | MIT (c) 2026 Matt Pocock | none | scripts/hitl-loop.template.sh |
 | `domain-modeling` | mattpocock/skills | MIT (c) 2026 Matt Pocock | none | GLOSSARY-FORMAT.md, ADR-FORMAT.md |

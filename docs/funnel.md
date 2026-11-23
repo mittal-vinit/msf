@@ -16,7 +16,7 @@ Each stage has an exit gate. A PR that reaches the end has passed all of them. O
 | 9 | Simplify | `code-simplification`, `principle-laziness-protocol`, `principle-subtract-before-you-add`, `principle-minimize-reader-load` | Behavior changed, tests not green, or not a separate commit |
 | 10 | Cross-verify | `santa-method`, `doubt-driven-development`, `blast-radius`, `principle-prove-it-works`, `verification-loop` | An unresolved proven finding, or a safety fact marked unproven |
 | 11 | Raise PR | `git-workflow-and-versioning`, `pr`, `technical-writing`, `unslop` | No before/after evidence, no one-way/two-way call, oversized change |
-| 12 | Review | `code-review` | Spec axis finds the PR does not match the ticket; Standards axis finds repo-rule violations |
+| 12 | Review | `code-review` | A Blocker or High finding (any axis: correctness, security, scale, tests, spec, standards, lean, reach) |
 | 13 | Ship and learn | `shipping-and-launch`, `ci-cd-and-automation`, `canary-watch`, `browser-qa`, `deprecation-and-migration`, `retro`, `correct`, `triage`; scheduled: `improve-codebase-architecture` | No rollback plan; a repeated mistake only documented, not enforced |
 
 ## Not yet filled (staged)
