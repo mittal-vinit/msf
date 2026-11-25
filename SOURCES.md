@@ -1,10 +1,10 @@
 # Sources
 
-Every skill in this repo was copied from an upstream MIT-licensed repository. Skills were fetched from each repo's default branch on 2026-11-23. **Upstream commit SHAs were not recorded** (TODO: record them before the next sync).
+Every skill in this repo was copied from an upstream MIT-licensed repository, except those marked `original (msf)`. Skills were fetched from each repo's default branch on 2026-11-23. **Upstream commit SHAs were not recorded** (TODO: record them before the next sync).
 
 See `THIRD_PARTY_NOTICES.md` for the license texts. Skills keep their upstream names.
 
-## Active skills (67)
+## Active skills (68)
 
 | Skill | Upstream | License | Local changes | Helper files copied |
 |---|---|---|---|---|
@@ -75,6 +75,7 @@ See `THIRD_PARTY_NOTICES.md` for the license texts. Skills keep their upstream n
 | `triage` | mattpocock/skills | MIT (c) 2026 Matt Pocock | none | AGENT-BRIEF.md, OUT-OF-SCOPE.md |
 | `wayfinder` | mattpocock/skills | MIT (c) 2026 Matt Pocock | none | - |
 | `writing-for-agents` | mattpocock/skills | MIT (c) 2026 Matt Pocock | none | SKILL-MECHANICS.md |
+| `tool-upgrade` | original (msf) | MIT (c) 2026 Vinit Mittal | none | - |
 
 ## Staged skills (21), not loaded
 
