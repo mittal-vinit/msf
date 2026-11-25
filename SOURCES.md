@@ -4,7 +4,7 @@ Every skill in this repo was copied from an upstream MIT-licensed repository. Sk
 
 See `THIRD_PARTY_NOTICES.md` for the license texts. Skills keep their upstream names.
 
-## Active skills (67)
+## Active skills (68)
 
 | Skill | Upstream | License | Local changes | Helper files copied |
 |---|---|---|---|---|
@@ -75,6 +75,7 @@ See `THIRD_PARTY_NOTICES.md` for the license texts. Skills keep their upstream n
 | `triage` | mattpocock/skills | MIT (c) 2026 Matt Pocock | none | AGENT-BRIEF.md, OUT-OF-SCOPE.md |
 | `wayfinder` | mattpocock/skills | MIT (c) 2026 Matt Pocock | none | - |
 | `writing-for-agents` | mattpocock/skills | MIT (c) 2026 Matt Pocock | none | SKILL-MECHANICS.md |
+| `tool-upgrade` | original (msf) | MIT | - | - |
 
 ## Staged skills (21), not loaded
 
